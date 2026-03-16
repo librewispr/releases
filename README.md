@@ -43,6 +43,3 @@ Librewispr turns your voice into text using state-of-the-art AI models running *
 
 > Requires **macOS 14 Sonoma** or later on **Apple Silicon**.
 
-## License
-
-MIT
