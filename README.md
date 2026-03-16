@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://librewispr.app">Website</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;<a href="https://github.com/librewispr/releases/releases/latest">Download</a>
+  <a href="https://www.librewispr.app">Website</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;<a href="https://github.com/librewispr/releases/releases/latest">Download</a>
 </p>
 
 ---
