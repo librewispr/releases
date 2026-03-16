@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://librewispr.app/images/app-icon-dark.png" width="128" height="128" alt="Librewispr icon">
-</p>
-
 <h1 align="center">Librewispr</h1>
 
 <p align="center">
@@ -46,18 +42,6 @@ Librewispr turns your voice into text using state-of-the-art AI models running *
 3. Launch, pick a speech model, and start dictating
 
 > Requires **macOS 14 Sonoma** or later on **Apple Silicon**.
-
-## How it works
-
-```
-Microphone → Audio capture → Resample 16kHz → VAD → AI Model → Text
-                                                          ↓
-                                              (optional) LLM cleanup
-                                                          ↓
-                                              Dictionary replacements
-                                                          ↓
-                                              Paste at cursor position
-```
 
 ## License
 
