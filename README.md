@@ -30,7 +30,7 @@ Librewispr turns your voice into text using state-of-the-art AI models running *
 | **Multiple AI Models** | Whisper (OpenAI), Parakeet (Nvidia), Granite (IBM) with Metal & CoreML acceleration. |
 | **Instant Text Injection** | Press a shortcut, speak, and text appears at your cursor. Works in any app. |
 | **AI Text Cleanup** | Local or external LLMs refine your transcription — fix grammar, remove filler words. |
-| **Multilingual** | English and Portuguese, with more languages expanding. |
+| **Multilingual** | Supports multiple languages. |
 | **Custom Dictionary** | Add word replacements for jargon, names, and abbreviations. |
 | **Transcription History** | Every transcription is saved and searchable. |
 | **No Account Required** | Download and start dictating in under two minutes. |
